@@ -13,3 +13,10 @@
  *= require_tree .
  *= require_self
  */
+
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,300i,400');
+
+.card-custom {
+  border-radius: 12px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0, 1);
+}
